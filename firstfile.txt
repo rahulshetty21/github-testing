@@ -1,0 +1,1 @@
+My first commit to GIT repository. Todays date is 8/8/2019
